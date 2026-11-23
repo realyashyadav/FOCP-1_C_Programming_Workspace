@@ -1,3 +1,7 @@
+//Problem statement: Given n, print a left-aligned triangle. Row i must contain exactly i asterisks, for i from 1 to n.
+//Input format: One integer n (1 ≤ n ≤ 20).
+//Output format: Print n lines. Line i contains i asterisks.
+
 #include <stdio.h>
 int main() {
     int n;
