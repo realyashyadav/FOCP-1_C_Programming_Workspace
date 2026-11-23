@@ -1,3 +1,6 @@
+//Problem statement: Given a positive integer n, print a square containing n rows and n columns of asterisks (*). Do not print spaces between asterisks.
+//Input format: One integer n (1 ≤ n ≤ 20).
+//output format: Print n lines, each containing exactly n asterisks.
 #include <stdio.h>
 int main() {
     int n;
